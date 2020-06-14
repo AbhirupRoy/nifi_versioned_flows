@@ -1,0 +1,6 @@
+flows:
+  b9317ea1-11e9-4f9b-b2c7-c4361a6e2955: {ver: 1, file: Flow2-Dev.snapshot, comments: '',
+    author: 'CN=sys_admin, OU=NIFI', created: 1592152641198, flowName: Flow2-Dev,
+    flowDesc: ''}
+layoutVer: 1
+bucketId: 67d95ed3-9907-47f7-a721-a007b3ef30d7
