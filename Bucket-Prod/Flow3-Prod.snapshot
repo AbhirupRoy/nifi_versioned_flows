@@ -1,0 +1,32 @@
+{
+  "header" : {
+    "dataModelVersion" : "3"
+  },
+  "content" : {
+    "flowSnapshot" : {
+      "externalControllerServices" : { },
+      "flowContents" : {
+        "comments" : "",
+        "componentType" : "PROCESS_GROUP",
+        "connections" : [ ],
+        "controllerServices" : [ ],
+        "funnels" : [ ],
+        "identifier" : "6f8d62fd-61a1-3888-9aaf-bbfbadd4f968",
+        "inputPorts" : [ ],
+        "labels" : [ ],
+        "name" : "Flow3-Prod",
+        "outputPorts" : [ ],
+        "position" : {
+          "x" : 672.0,
+          "y" : -456.0
+        },
+        "processGroups" : [ ],
+        "processors" : [ ],
+        "remoteProcessGroups" : [ ],
+        "variables" : { }
+      },
+      "flowEncodingVersion" : "1.0",
+      "parameterContexts" : { }
+    }
+  }
+}
